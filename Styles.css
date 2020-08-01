@@ -1,0 +1,70 @@
+body {
+text-align: center;
+margin-top: 0;
+font-family: 'Merriweather', serif;
+color: #11999E;}
+
+
+.top-container {
+  background-color: #86c4ba;
+  padding-top: 6%;
+  position: relative;
+
+}
+.middle-container {
+  background-color: #f4f6ff;
+
+}
+
+.bottom-container {
+  background-color: #86c4ba;
+  padding-top: 10px;
+  padding-bottom: 5px;
+
+}
+
+hr {
+  border-style: dotted none none none;
+
+    height: 0;
+    width: 4%;
+    border-color: grey;
+    border-top-width: 4px;
+    border-spacing: 2px;
+}
+h5 {color: #112d4e;
+margin: 0;
+font-family: 'Caveat', cursive;}
+h4 {color: #112d4e;
+margin: 0;
+font-family: 'Caveat', cursive;}
+
+h3 {color: #112d4e;
+  line-height: 2;
+font-family: 'Montserrat', sans-serif;}
+
+h2 {color: #112d4e;font-family: 'Montserrat', sans-serif;}
+h1 {color: #112d4e;
+margin: 0;
+font-family: 'Caveat', cursive;
+font-size: 3.125rem;
+}
+
+.bottom-cloud {position: absolute;
+right:23%; bottom: 50%;}
+
+.top-cloud {position: absolute;
+left: 25%;}
+
+.profilepicture {margin-top: 70px;
+margin-bottom: 15px;}
+
+.myinterests {margin-top: 0;}
+
+.activities {margin-top: 70px;
+margin-bottom: 15px;}
+
+.skills {margin-top:80px;}
+
+.contact-me {margin-top: 100px;
+margin-bottom: 30px;}
