@@ -62,9 +62,14 @@ margin-bottom: 15px;}
 .myinterests {margin-top: 0;}
 
 .activities {margin-top: 70px;
-margin-bottom: 15px;}
+margin-bottom: 0;}
 
 .skills {margin-top:80px;}
 
 .contact-me {margin-top: 100px;
 margin-bottom: 30px;}
+
+.my-skills {
+margin-left: auto;
+margin-right: auto;
+line-height: 2;}
